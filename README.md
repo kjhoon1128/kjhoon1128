@@ -41,12 +41,6 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 
-<style>
-h1, h2 {
-  text-decoration: none;
-}
-</style>
-
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjhoon1128&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=kjhoon1128&show_icons=true">
